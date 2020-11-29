@@ -272,8 +272,8 @@ public static void printAll() {
 ```
 ## 系统运行截图
 Picture1.choose coures：
-https://github.com/MOOxhnh/bipt-java-2/blob/main/1.png
-https://github.com/MOOxhnh/bipt-java-2/blob/main/2.png
+![Picture1.choose coures](https://github.com/MOOxhnh/bipt-java-2/blob/main/1.png)  
+![Picture1.choose coures](https://github.com/MOOxhnh/bipt-java-2/blob/main/2.png)
 ## 实验感想  
 通过本次实验，我学会并熟悉了前半学期的课程内容：
 第二章：基本数据类型、输入输出数据
