@@ -41,8 +41,8 @@ Java课程作业项目仓库
 (d)创建一组打印方法：printAll、printTeacher、printTeacherAll、printStudent、printStudentAll、printCourse、printCourseAll方便主方法进行信息的打印。
 (e)最后在主方法中建立一个循环（保持选课系统持续存在，方便多次选课），接受第一次数据输入，调用judge（）方法开始进行选课。选课完毕，调用 printAll（）方法打印信息.
 ## 流程图
-Picture1.choose coures：
-![Picture1.choose coures](https://github.com/MOOxhnh/bipt-java-2/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+：
+![](https://github.com/MOOxhnh/bipt-java-2/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ## 核心方法  
 1.Teacher构造方法
 
